@@ -120,7 +120,7 @@ export default function CheckInPage() {
   return (
     <div className="min-h-screen bg-white flex flex-col items-center justify-center p-4">
       {/* Logo */}
-      <img src="/hrmd_logo.png" alt="Logo" className="h-32 mb-8" />
+      <img src="/hrmdd_logo.png" alt="Logo" className="h-32 mb-8" />
 
       {/* Attendance Title */}
       <h1 className="text-xl font-normal text-slate-800 mb-12 tracking-tight">
